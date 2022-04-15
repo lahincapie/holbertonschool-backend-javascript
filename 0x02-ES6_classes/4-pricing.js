@@ -33,7 +33,6 @@ export default class Pricing {
     if (amount !== 'number' || conversionRate !== 'number') {
       throw new TypeError('Amount and conversionRate must be a number');
     }
-    this._amount = value;
     return (amount * conversionRate);
   }
 }
