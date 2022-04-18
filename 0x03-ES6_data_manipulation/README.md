@@ -38,6 +38,7 @@ bob@dylan:~$
 - File: `0-get_list_students.js`
 
 
+
 ### **1. More mapping**
 
 Create a function `getListStudentIds` that returns an array of ids from a list of object.
@@ -69,6 +70,7 @@ bob@dylan:~$
 - GitHub repository: `holbertonschool-backend-javascript`
 - Directory: `0x03-ES6_data_manipulation`
 - File: `1-get_list_student_ids.js`
+
 
 
 ### **2. Filter**
@@ -105,6 +107,7 @@ bob@dylan:~$
 - File: `2-get_students_by_loc.js`
 
 
+
 ### **3. Reduce**
 
 Create a function `getStudentIdsSum` that returns the sum of all the student ids.
@@ -135,6 +138,7 @@ bob@dylan:~$
 - GitHub repository: `holbertonschool-backend-javascript`
 - Directory: `0x03-ES6_data_manipulation`
 - File: `3-get_ids_sum.js`
+
 
 
 
